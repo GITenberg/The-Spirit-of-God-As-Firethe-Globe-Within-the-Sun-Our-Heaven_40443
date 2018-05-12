@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40624'
     url: http://www.gutenberg.org/2009/agents/40624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40443#The-Spirit-of-God-As-Firethe-Globe-Within-the-Sun-Our-Heaven
 gutenberg_issued: '2012-08-08'
 gutenberg_type: Text
 identifiers:
